@@ -29,3 +29,7 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+
+# dsh-whale-galgame 工作区存档
+.whale-girl-save.json
+.whale-girl-save.*.json
